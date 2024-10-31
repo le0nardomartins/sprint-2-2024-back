@@ -29,7 +29,7 @@ Clone o repositório e instale as dependências.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/le0nardomartins/careview-api.git
+git clone https://github.com/le0nardomartins/sprint-2-2024-back
 
 # Navegue até a pasta do projeto
 cd careview-api
